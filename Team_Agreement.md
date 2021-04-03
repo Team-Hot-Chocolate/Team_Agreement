@@ -1,5 +1,11 @@
 # **Team Hot Chocolate - Agreement**
 
+Team Hot Chocolate:
+Chris Gantt
+Jakob Lumpkin
+Jessi Velazquez
+Simone Odegard
+
 **Conflict Plan**
 
 Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
